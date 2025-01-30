@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proyectointegrador_programacionfuncional_8985.iml" filepath="$PROJECT_DIR$/.idea/modules/proyectointegrador_programacionfuncional_8985.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proyectointegrador_programacionfuncional_8985.proyectointegrador_programacionfuncional_8985-build.iml" filepath="$PROJECT_DIR$/.idea/modules/proyectointegrador_programacionfuncional_8985.proyectointegrador_programacionfuncional_8985-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_ProgramacionFuncional.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_ProgramacionFuncional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_ProgramacionFuncional.ProyectoIntegrador_ProgramacionFuncional-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_ProgramacionFuncional.ProyectoIntegrador_ProgramacionFuncional-build.iml" />
     </modules>
   </component>
 </project>

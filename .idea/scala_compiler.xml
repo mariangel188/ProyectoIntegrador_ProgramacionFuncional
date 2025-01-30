@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="proyectointegrador_programacionfuncional_8985" />
+    <profile name="sbt 1" modules="ProyectoIntegrador_ProgramacionFuncional,proyectointegrador_programacionfuncional_8985,trabajoIntegrador" />
   </component>
 </project>
